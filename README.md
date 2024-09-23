@@ -1,46 +1,63 @@
-# Xjectro
+<img src="https://raw.githubusercontent.com/Xjectro/Xjectro/main/assets/banner.png" alt="Xjectro Banner">
 
-👋 Hi there! I’m Xjectro, a passionate Full Stack Developer with expertise in a variety of web technologies. I specialize in building dynamic and responsive web applications that deliver exceptional user experiences.
+<h2> Hey there! I'm Xjectro.</h2>
 
-## 🌐 About Me
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I work as a Full Stack Developer at [Punky](https://punky.ai/), where I contribute to innovative projects that leverage modern frameworks and tools. My goal is to create seamless digital experiences through thoughtful design and efficient code.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Working as a Full Stack Developer at [Punky](https://punky.ai/).
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-## 🛠️ Technologies & Tools
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-I have experience with the following technologies:
+- 💻 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=flat)
+  ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat)
+  ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
-- **Front-end Frameworks:**
-  - Vue.js
-  - Nuxt.js
-  - React
-  - React Native
-  - Next.js
-  - Svelte
-  - Tailwind CSS
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongodb)
 
-- **Back-end & Databases:**
-  - Node.js
-  - TypeScript
-  - Mongoose
-  - SQLite
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-- **CDNs:**
-  - Bunny CDN
-  - Cloudflare CDN
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor)
 
-- **Web Technologies:**
-  - HTML
-  - CSS
+- 🐍 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-- **Package Managers:**
-  - npm
-  - Yarn
-  - pnpm
+- 🌐 &nbsp;
+  ![Bunny CDN](https://img.shields.io/badge/-Bunny%20CDN-333333?style=flat)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
 
-## 📫 Get in Touch
+<br/>
 
-Feel free to reach out to me for collaborations, inquiries, or just to connect!
+<a href="https://github.com/Xjectro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xjectro&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xjectro&theme=buefy&layout=compact" />
+</a>
 
-- [LinkedIn](https://www.linkedin.com/in/eray-g%C3%BCn%C3%BCuygun-96215a288/)
-- [X](https://x.com/Xjectro)
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="xjectro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/xjectro@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [Xjectro](https://github.com/Xjectro)
