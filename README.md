@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/punky-banner.png" alt="Xjectro Banner" width="90%">
+  <img src="/images/punky-banner.png" alt="Xjectro Banner" width="80%">
 </p>
 
 <h2> Hey there! I'm Xjectro.</h2>
