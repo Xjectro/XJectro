@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xjectro/Xjectro/main/assets/banner.png" alt="Xjectro Banner" width="100%" width="100%">
+  <img src="/images/punky-banner.png" alt="Xjectro Banner" width="100%" width="100%">
 </p>
 
 <h2> Hey there! I'm Xjectro.</h2>
