@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/129968185?s=400&u=5a08f502387fd98ee6372c90894a6bf183fff63d&v=4" alt="Xjectro Banner">
+<img src="./images/punky-banner.png" alt="Xjectro Banner">
 
 <h2> Hey there! I'm Xjectro.</h2>
 
