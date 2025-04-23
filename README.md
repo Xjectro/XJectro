@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="/images/punky-banner.png" alt="Xjectro Banner" width="100%">
-</p>
-
-<h2> Hey there! I'm Xjectro.</h2>
+<h2> Hey there! I'm Eray.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Working as a Full Stack Developer at [Punky](https://punky.ai/).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -25,6 +20,10 @@
   ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat)
   ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Turbo Repo](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Vite](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Storybook](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Jest](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -36,16 +35,14 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor)
-
 - 🐍 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 - 🌐 &nbsp;
   ![Bunny CDN](https://img.shields.io/badge/-Bunny%20CDN-333333?style=flat)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
+  ![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+  ![Nginx](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
 
 <br/>
 
