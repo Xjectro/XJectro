@@ -12,4 +12,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xjectro@gmail.com)](mailto:xjectro@gmail.com)
   [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@xjectro)](https://medium.com/@xjectro)
   <br>
+  <span>
+     ---
+  </span>
   - [deloyn](https://www.npmjs.com/package/deloyn): ![npm package](https://img.shields.io/npm/collaborators/deloyn)
