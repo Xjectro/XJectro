@@ -5,7 +5,11 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/30453280/eray-günüuygun)](https://stackoverflow.com/users/30453280/eray-günüuygun)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xjectro@gmail.com)](mailto:xjectro@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@xjectro)](https://medium.com/@xjectro)
+
 <hr/>
+
 - [deloyn](https://www.npmjs.com/package/deloyn): ![npm package](https://img.shields.io/npm/collaborators/deloyn)
+
 <hr />
+
 <img src="https://github-readme-stats.vercel.app/api?username=Xjectro&show_icons=true&icon_color=278ECF&text_color=718096&bg_color=f7f7f7&hide_title=true" />
