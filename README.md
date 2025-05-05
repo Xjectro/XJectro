@@ -12,3 +12,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xjectro@gmail.com)](mailto:xjectro@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@xjectro)](https://medium.com/@xjectro)
 <br>
+---
+- [deloyn](https://pub.dev/packages/swifty_chat): ![npm package]([https://img.shields.io/pub/v/swifty_chat.svg](https://pbs.twimg.com/profile_images/1285630920263966721/Uk6O1QGC_400x400.jpg))
