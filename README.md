@@ -1,4 +1,4 @@
-### Enes Karaosman 👋
+### Eray Günüuygun 👋
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
