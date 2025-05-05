@@ -6,7 +6,6 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=EnesKaraosman.EnesKaraosman)
 [![GitHub Xjectro](https://img.shields.io/github/followers/Xjectro?label=follow&style=social)](https://github.com/Xjectro)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ErayGünüuygun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xjectro/)](https://www.linkedin.com/in/xjectro/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/30453280/eray-günüuygun)](https://stackoverflow.com/users/30453280/eray-günüuygun)
