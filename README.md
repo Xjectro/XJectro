@@ -12,4 +12,4 @@
 
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xjectro&show_icons=true&icon_color=278ECF&text_color=718096&bg_color=f7f7f7&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Xjectro" />
