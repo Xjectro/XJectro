@@ -9,6 +9,7 @@
 <hr />
 
 - [deloyn](https://www.npmjs.com/package/deloyn): ![npm package](https://img.shields.io/npm/collaborators/deloyn)
+- [@xjectro/react](https://www.npmjs.com/package/@xjectro/react): ![npm package](https://img.shields.io/npm/collaborators/deloyn)
 
 <hr />
 
