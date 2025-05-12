@@ -8,9 +8,9 @@
 
 <hr />
 
-- [deloyn](https://www.npmjs.com/package/deloyn): ![npm package](https://img.shields.io/npm/collaborators/deloyn)
-- [@xjectro/react](https://www.npmjs.com/package/@xjectro/react): ![npm package](https://img.shields.io/npm/collaborators/@xjectro/react)
-- [@xjectro/express](https://www.npmjs.com/package/@xjectro/express): ![npm package](https://img.shields.io/npm/collaborators/@xjectro/express)
+- [deloyn](https://www.npmjs.com/package/deloyn): ![npm package](https://img.shields.io/npm/dm/deloyn)
+- [@xjectro/react](https://www.npmjs.com/package/@xjectro/react): ![npm package](https://img.shields.io/npm/dm/@xjectro/react)
+- [@xjectro/express](https://www.npmjs.com/package/@xjectro/express): ![npm package](https://img.shields.io/npm/dm/@xjectro/express)
 
 <hr />
 
