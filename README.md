@@ -13,7 +13,8 @@
 - [@xjectro/react-shared](https://www.npmjs.com/package/@xjectro/react-shared): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Freact-shared)
 - [@xjectro/react-utils](https://www.npmjs.com/package/@xjectro/react-shared): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Freact-utils)
 - [@xjectro/express](https://www.npmjs.com/package/@xjectro/express): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fexpress)
-- [@xjectro/express-crypto](https://www.npmjs.com/package/@xjectro/crypto): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fexpress-crypto)
+- [@xjectro/express-crypto](https://www.npmjs.com/package/@xjectro/express-crypto): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fexpress-crypto)
+- [@xjectro/express-jwt](https://www.npmjs.com/package/@xjectro/express-jwt): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fexpress-jwt)
 - [@herbycat/delivery](https://www.npmjs.com/package/@herbycat/delivery): ![npm package](https://img.shields.io/npm/dm/%40herbycat%2Fdelivery)
 
 <hr />
