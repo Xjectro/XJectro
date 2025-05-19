@@ -13,7 +13,7 @@
 - [@xjectro/react-shared](https://www.npmjs.com/package/@xjectro/react-shared): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Freact-shared)
 - [@xjectro/react-utils](https://www.npmjs.com/package/@xjectro/react-shared): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Freact-utils)
 - [@xjectro/express](https://www.npmjs.com/package/@xjectro/express): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fexpress)
-- [@xjectro/express](https://www.npmjs.com/package/@herbycat/delivery): ![npm package](https://img.shields.io/npm/dm/%40herbycat%2Fdelivery)
+- [@herbycat/delivery](https://www.npmjs.com/package/@herbycat/delivery): ![npm package](https://img.shields.io/npm/dm/%40herbycat%2Fdelivery)
 
 <hr />
 
