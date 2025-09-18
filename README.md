@@ -12,4 +12,4 @@
 
 <hr />
 
-![Xjectro's Stats](https://github-readme-stats.vercel.app/api?username=xjectro&show_icons=true&theme=dark&hide_title=true&count_private=true)
+![Xjectro's Stats](https://github-readme-stats.vercel.app/api?username=xjectro&show_icons=true&theme=dark&hide_title=true&count_private=true&hide_border=true)
